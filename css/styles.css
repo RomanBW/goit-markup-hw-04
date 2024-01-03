@@ -158,6 +158,14 @@ span {
   flex-shrink: 0;
   padding: 188px 0;
   justify-content: center;
+  background-image: url(../images/people-office1.png);
+  background-position: center center;
+  background-size: cover;
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/people-office1.png);
 }
 
 .main-title {
