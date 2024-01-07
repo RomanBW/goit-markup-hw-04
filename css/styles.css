@@ -323,6 +323,8 @@ span {
 }
 
 .container-text {
+  padding: 32px 0;
+  gap: 8px;
 }
 
 .section-title-name {
@@ -375,14 +377,6 @@ span {
 
 .social {
   fill: #f4f4fd;
-}
-.media {
-  display: inline-flex;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 24px;
-  padding: 32px 0;
 }
 
 /**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
