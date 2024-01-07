@@ -323,8 +323,6 @@ span {
 }
 
 .container-text {
-  padding: 32px 0;
-  gap: 8px;
 }
 
 .section-title-name {
@@ -384,6 +382,7 @@ span {
   justify-content: center;
   align-items: center;
   gap: 24px;
+  padding: 32px 0;
 }
 
 /**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
