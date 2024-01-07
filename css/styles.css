@@ -324,14 +324,13 @@ span {
 
 .container-text {
   padding: 32px 0;
+  gap: 8px;
 }
 
 .section-title-name {
   color: #2e2f42;
   text-align: center;
-  font-family: Roboto;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -341,12 +340,11 @@ span {
 .section-title-content {
   color: #434455;
   text-align: center;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 .social-networks {
@@ -379,6 +377,13 @@ span {
 
 .social {
   fill: #f4f4fd;
+}
+.media {
+  display: inline-flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
 }
 
 /**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
