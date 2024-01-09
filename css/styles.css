@@ -468,6 +468,12 @@ span {
   flex-shrink: 0;
   max-width: 1440px;
 }
+
+.footer-container {
+  display: flex;
+  align-items: baseline;
+}
+
 .footer-logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
