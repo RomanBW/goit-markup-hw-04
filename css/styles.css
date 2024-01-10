@@ -500,6 +500,7 @@ span {
   text-transform: uppercase;
 }
 .footer-text {
+  margin-bottom: 16px;
   color: #f4f4fd;
   font-size: 16px;
   font-weight: 400;
@@ -510,7 +511,6 @@ span {
 
 .social-text {
   margin-right: 120px;
-  margin-bottom: 16px;
   color: #fff;
   font-size: 16px;
   font-weight: 500;
