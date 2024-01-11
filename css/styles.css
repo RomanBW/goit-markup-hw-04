@@ -13,6 +13,7 @@ body {
 *::after {
   content: "";
   position: absolute;
+  width: 100%;
   left: 0;
   bottom: -1px;
   height: 4px;
